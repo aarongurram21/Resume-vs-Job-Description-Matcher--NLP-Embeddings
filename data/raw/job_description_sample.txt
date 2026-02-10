@@ -1,0 +1,17 @@
+Role: Senior NLP Engineer
+Location: Remote (US)
+
+Responsibilities:
+- Design and deploy embeddings-based search and matching for resumes to job descriptions.
+- Build and evaluate NLP pipelines for skill extraction and ranking.
+- Collaborate with product to improve ATS workflow and candidate matching quality.
+
+Requirements:
+- 4+ years of experience with Python and NLP.
+- Strong experience with Sentence-Transformers, PyTorch, and scikit-learn.
+- Familiarity with AWS, Docker, and MLOps practices.
+- Excellent communication and ability to work cross-functionally.
+
+Nice to have:
+- Experience with FastAPI or similar frameworks.
+- Background in recommendation or search ranking systems.

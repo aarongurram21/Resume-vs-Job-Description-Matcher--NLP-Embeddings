@@ -1,0 +1,10 @@
+model:
+  name: sentence-transformers/all-MiniLM-L6-v2
+
+paths:
+  raw_data: data/raw
+  processed_data: data/processed
+  models: models
+
+scoring:
+  top_k_sections: 5

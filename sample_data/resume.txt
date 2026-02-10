@@ -1,0 +1,18 @@
+John Doe
+Austin, TX | john.doe@email.com | 555-123-4567
+
+Summary:
+Data scientist with 5+ years of experience building NLP systems that improve hiring and talent workflows.
+
+Experience:
+- Senior Data Scientist at TalentFlow (2021-Present)
+  Built resume parsing pipeline using Transformers; improved matching precision by 14%.
+  Led team of 3, shipping embeddings-based search with Sentence-Transformers.
+- Machine Learning Engineer at PeopleMatch (2018-2021)
+  Developed skill extraction models; reduced false positives by 10%.
+
+Skills:
+Python, SQL, PyTorch, TensorFlow, scikit-learn, spaCy, FastAPI, AWS, Docker, Kubernetes, MLOps, Airflow
+
+Education:
+M.S. Computer Science, University of Texas at Austin

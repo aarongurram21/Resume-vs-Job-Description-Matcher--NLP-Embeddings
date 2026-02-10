@@ -1,0 +1,11 @@
+gradio==4.44.0
+pdfplumber==0.11.4
+numpy==1.26.4
+sentence-transformers==2.7.0
+torch==2.2.0
+pytest==8.3.2
+PyYAML==6.0.2
+pandas==2.2.3
+scikit-learn==1.5.2
+joblib==1.4.2
+click==8.1.7
